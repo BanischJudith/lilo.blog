@@ -3,11 +3,12 @@ title = "Körperliche Auswirkungen einer Depression"
 date = "2023-05-05"
 draft = false
 pinned = true
+tags = ["Reportage"]
 footnotes = "Stangl, W. (2023, 29. März). *[weiße Substanz – Online Lexikon für Psychologie & Pädagogik](https://lexikon.stangl.eu/31874/weisse-substanz)*.\\\nhttps://lexikon.stangl.eu/31874/weisse-substanz."
 +++
 <Überzeile>
 
-## Körperliche Auswirkungen einer Depression
+# Körperliche Auswirkungen einer Depression
 
 ### Eine Studie der UPD erforscht die langfristigen Auswirkungen von Depressionen auf die Motorik
 
