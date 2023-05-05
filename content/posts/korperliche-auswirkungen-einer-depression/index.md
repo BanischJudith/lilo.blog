@@ -7,11 +7,10 @@ footnotes = "Stangl, W. (2023, 29. März). *[weiße Substanz – Online Lexikon
 +++
 ### <Überzeile>
 
-# **K**örperliche Auswirkungen einer Depression
-
+# **K**örperliche Auswirkungen einer Depression\
 `{{<lead>}}`\
 Eine Studie der UPD erforscht die langfristigen Auswirkungen von Depressionen auf die Motorik\
-`{{</lead>}}`
+`{{<lead>}}`
 
 #### ***<Vorspann>***
 
