@@ -28,7 +28,3 @@ Bemessen werden verschiedene Tests, welche die Teilnehmenden durchführen, Herr 
 **Biologie einer Depression**
 
 Herr Walther erzählte mir, eine der Hypothesen beziehe sich auf diejenigen Personen, die körperlich besonders verlangsamen. Erwartet wird, dass sich bei diesen Menschen Auffälligkeiten in der weissen Substanz im Gehirn zeigen werden. Als weiße Substanz (Substantia alba) bezeichnet man Anteile des Zentralnervensystems, die überwiegend aus Leitungsbahnen bzw. Nervenfasern bestehen und somit vornehmlich Nervenzellfortsätze enthalten (Stangl, 2023). Die Leistungsfähigkeit der weissen Substanz hängt eng mit der Menge an körperlicher Aktivität, die eine Person aufbringt, zusammen. Je mehr man sich bewegt, desto effizienter ihre Leistungsfähigkeit.
-
-Verwendete Literatur\
-Stangl, W. (2023, 29. März). *[weiße Substanz – Online Lexikon für Psychologie & Pädagogik](https://lexikon.stangl.eu/31874/weisse-substanz)*.\
-https://lexikon.stangl.eu/31874/weisse-substanz.
