@@ -15,7 +15,7 @@ footnotes = "Stangl, W. (2023, 29. März). *[weiße Substanz – Online Lexikon
 
 `{{<lead>}}`
 
-Eine Studie der UPD erforscht die langfristigen Auswirkungen von Depressionen auf die Motorik
+### Eine Studie der UPD erforscht die langfristigen Auswirkungen von Depressionen auf die Motorik
 
 `{{</lead>}}`
 
