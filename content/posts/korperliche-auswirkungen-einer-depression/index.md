@@ -5,19 +5,19 @@ draft = false
 pinned = true
 footnotes = "Stangl, W. (2023, 29. März). *[weiße Substanz – Online Lexikon für Psychologie & Pädagogik](https://lexikon.stangl.eu/31874/weisse-substanz)*.\\\nhttps://lexikon.stangl.eu/31874/weisse-substanz."
 +++
-`{{<lead>}}`
+{{<lead>}}
 
 <Überzeile>
 
-`{{</lead>}}`
+{{</lead>}}
 
 ## Körperliche Auswirkungen einer Depression
 
-`{{<lead>}}`
+{{<lead>}}
 
 ### Eine Studie der UPD erforscht die langfristigen Auswirkungen von Depressionen auf die Motorik
 
-`{{</lead>}}`
+{{</lead>}}
 
 #### ***<Vorspann>***
 
