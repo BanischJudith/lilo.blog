@@ -28,4 +28,14 @@ Bemessen werden verschiedene Tests, welche die Teilnehmenden durchführen, Herr 
 
 **Biologie einer Depression**
 
-Herr Walther erzählte mir, eine der Hypothesen beziehe sich auf diejenigen Personen, die körperlich besonders verlangsamen. Erwartet wird, dass sich bei diesen Menschen Auffälligkeiten in der weissen Substanz im Gehirn zeigen werden. Als weiße Substanz (Substantia alba) bezeichnet man Anteile des Zentralnervensystems, die überwiegend aus Leitungsbahnen bzw. Nervenfasern bestehen und somit vornehmlich Nervenzellfortsätze enthalten (Stangl, 2023). Die Leistungsfähigkeit der weissen Substanz hängt eng mit der Menge an der körperlichen Aktivität, die eine Person aufbringt, zusammen. Je mehr man sich bewegt, desto effizienter ihre Leistungsfähigkeit. Eine Störung der weissen Substanz geht mit Konzentrationsschwierigkeiten und Vergesslichkeit einher, welche bei einer Depression auch häufig vertreten sind. Herr Walther erwähnte, dass die Gehirne depressiver Personen leicht verlangsamt arbeiten, im vergleich zu gesunden Personen. Dies hängt jedoch nicht mit einem Mangel an Intelligenz zusammen, sondern viel mehr mit
+Herr Walther erzählte mir, eine der Hypothesen beziehe sich auf diejenigen Personen, die körperlich besonders verlangsamen. Erwartet wird, dass sich bei diesen Menschen Auffälligkeiten in der weissen Substanz im Gehirn zeigen werden. Als weiße Substanz (Substantia alba) bezeichnet man Anteile des Zentralnervensystems, die überwiegend aus Leitungsbahnen bzw. Nervenfasern bestehen und somit vornehmlich Nervenzellfortsätze enthalten (Stangl, 2023). Die Leistungsfähigkeit der weissen Substanz hängt eng mit der Menge an der körperlichen Aktivität, die eine Person aufbringt, zusammen. Je mehr man sich bewegt, desto effizienter ihre Leistungsfähigkeit. Eine Störung der weissen Substanz geht mit Konzentrationsschwierigkeiten und Vergesslichkeit einher, welche bei einer Depression auch häufig vertreten sind. Herr Walther erwähnte, dass die Gehirne depressiver Personen leicht verlangsamt arbeiten, im vergleich zu gesunden Personen. Dies hängt jedoch nicht mit einem Mangel an Intelligenz zusammen, sondern viel mehr mit einer veränderten Funktionsweise des Gehirns. Dies macht sich beispielsweise im Frontallappen bemerkbar, im Bereich des Gehirns, der für emotionale Regulation verantwortlich ist. Prozesse, welche dort stattfinden, sind bei einer Depression gestört. 
+
+<!--StartFragment-->
+
+Im limbischen System, dem emotionalen Gehirn, verknüpfen sich Strukturen von Großhirn, Mittelhirn und Hirnstamm. Die wichtigsten Bestandteile sind Hippocampus, Hypothalamus und Amygdala. Es ist für Triebverhalten, die Ausschüttung von Endorphinen und für intellektuelle Leistungen zuständig. Die Amygdala (Mandelkern) bewertet den emotionalen Gehalt einer Situation und reagiert auf Gefahren. (Stangl, 2023).\
+\
+Verwendete Literatur\
+Stangl, W. (2023, 10. Mai). *[limbisches System – Online Lexikon für Psychologie & Pädagogik](https://lexikon.stangl.eu/1731/limbisches-system)*.\
+https://lexikon.stangl.eu/1731/limbisches-system.
+
+<!--EndFragment-->
