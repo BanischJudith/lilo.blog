@@ -8,8 +8,7 @@ footnotes = "* Wittchen & Jacobi (2005) \\[Abruf 11.05.2023] [obsan_56_bericht.p
 +++
 ## Eine Studie der UPD erforscht die langfristigen Auswirkungen von Depressionen auf die Motorik
 
-#### *Rund 7 Prozent der schweizer Bevölkerung erleidet jährlich an einer Depression (Wittchen & Jacobi, 2005) davon gelten 50,9 Prozent als schwer oder sehr schwer ausgeprägt (Kessler & Wang, 2009).*\
-*Die UPD arbeitet nun an einer Studie, die den Einfluss der neurologischen Beschaffenheiten einer Depression auf unsere körperlichen, motorischen Fähigkeiten erforscht.*
+#### *Rund 7 Prozent der schweizer Bevölkerung erleidet jährlich an einer Depression (Wittchen & Jacobi, 2005) davon gelten 50,9 Prozent als schwer oder sehr schwer ausgeprägt (Kessler & Wang, 2009). Die UPD arbeitet nun an einer Studie, die den Einfluss der neurologischen Beschaffenheiten einer Depression auf unsere körperlichen, motorischen Fähigkeiten erforscht.*
 
 #### *Dieses gewonnene Wissen erweist sich als wertvoll im Verständnis unseres menschlichen Daseins und ist massgebend für unsere Lebensqualität* 
 
