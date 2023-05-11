@@ -8,7 +8,7 @@ footnotes = "* [](https://lexikon.stangl.eu/31874/weisse-substanz)Stangl, W. (20
 +++
 ## Eine Studie der UPD erforscht die langfristigen Auswirkungen von Depressionen auf die Motorik
 
-### *<Vorspann> lllllllllllll*
+### *<Vorspann>*
 
 **Ankunft im KIZ**
 
