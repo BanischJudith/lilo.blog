@@ -3,7 +3,7 @@ title = "Körperliche Auswirkungen einer Depression"
 date = "2023-05-05"
 draft = false
 pinned = true
-tags = ["ReportageMuristalden"]
+tags = ["Reportage", "CampusMuristalden"]
 footnotes = "* [](https://lexikon.stangl.eu/31874/weisse-substanz)Stangl, W. (2023, 29. März). *[weiße Substanz – Online Lexikon für Psychologie & Pädagogik](https://lexikon.stangl.eu/31874/weisse-substanz)*.\n* Stangl, W. (2023, 6. Mai). *[limbisches System – Online Lexikon für Psychologie & Pädagogik](https://lexikon.stangl.eu/1731/limbisches-system)*.[](https://www.neurologen-und-psychiater-im-netz.org/psychiatrie-psychosomatik-psychotherapie/stoerungen-erkrankungen/depressionen/ursachen/#SnippetTab)\n* Voderholzer, U. (2023, 10. Mai) [Depressionen » Symptome, Ursachen, Diagnostik. Therapie » Ursachen » (neurologen-und-psychiater-im-netz.org)](https://www.neurologen-und-psychiater-im-netz.org/psychiatrie-psychosomatik-psychotherapie/stoerungen-erkrankungen/depressionen/ursachen/#SnippetTab)\n* remstim.com (2023, 11. Mai) [Angst: Wie die Amygdala unsere Ängste steuert (remstim.com)](https://remstim.com/angst-amygdala-aengste-steuert/)"
 +++
 ## Eine Studie der UPD erforscht die langfristigen Auswirkungen von Depressionen auf die Motorik
