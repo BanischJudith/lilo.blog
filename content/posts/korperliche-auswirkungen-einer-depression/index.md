@@ -1,14 +1,17 @@
 +++
 title = "Körperliche Auswirkungen einer Depression"
-date = "2023-05-05"
+date = "2023-05-12"
 draft = false
 pinned = true
 tags = ["Reportage", "CampusMuristalden"]
-footnotes = "* [](https://lexikon.stangl.eu/31874/weisse-substanz)Stangl, W. (2023, 29. März). *[weiße Substanz – Online Lexikon für Psychologie & Pädagogik](https://lexikon.stangl.eu/31874/weisse-substanz)*.\n* Stangl, W. (2023, 6. Mai). *[limbisches System – Online Lexikon für Psychologie & Pädagogik](https://lexikon.stangl.eu/1731/limbisches-system)*.[](https://www.neurologen-und-psychiater-im-netz.org/psychiatrie-psychosomatik-psychotherapie/stoerungen-erkrankungen/depressionen/ursachen/#SnippetTab)\n* Voderholzer, U. (2023, 10. Mai) [Depressionen » Symptome, Ursachen, Diagnostik. Therapie » Ursachen » (neurologen-und-psychiater-im-netz.org)](https://www.neurologen-und-psychiater-im-netz.org/psychiatrie-psychosomatik-psychotherapie/stoerungen-erkrankungen/depressionen/ursachen/#SnippetTab)\n* remstim.com (2023, 11. Mai) [Angst: Wie die Amygdala unsere Ängste steuert (remstim.com)](https://remstim.com/angst-amygdala-aengste-steuert/)"
+footnotes = "* Wittchen & Jacobi (2005) \\[Abruf 11.05.2023] [obsan_56_bericht.pdf (admin.ch)](https://www.obsan.admin.ch/sites/default/files/2021-08/obsan_56_bericht.pdf)\n* Kessler & Wang (2009) \\[Abruf 11.05.2023] [obsan_56_bericht.pdf (admin.ch)](https://www.obsan.admin.ch/sites/default/files/2021-08/obsan_56_bericht.pdf)\n* Stangl, W. (2023) \\[Abruf 29.03.2023] *[weiße Substanz – Online Lexikon für Psychologie & Pädagogik](https://lexikon.stangl.eu/31874/weisse-substanz)*.\n* Stangl, W. (2023) \\[Abruf 06.05.2023] *[limbisches System – Online Lexikon für Psychologie & Pädagogik](https://lexikon.stangl.eu/1731/limbisches-system)*.[](https://www.neurologen-und-psychiater-im-netz.org/psychiatrie-psychosomatik-psychotherapie/stoerungen-erkrankungen/depressionen/ursachen/#SnippetTab)\n* Voderholzer, U. (2023) \\[Abruf 10.05.2023] [Depressionen » Symptome, Ursachen, Diagnostik. Therapie » Ursachen » (neurologen-und-psychiater-im-netz.org)](https://www.neurologen-und-psychiater-im-netz.org/psychiatrie-psychosomatik-psychotherapie/stoerungen-erkrankungen/depressionen/ursachen/#SnippetTab)\n* remstim.com \\[Abruf 11.05.2023] [Angst: Wie die Amygdala unsere Ängste steuert (remstim.com)](https://remstim.com/angst-amygdala-aengste-steuert/)"
 +++
 ## Eine Studie der UPD erforscht die langfristigen Auswirkungen von Depressionen auf die Motorik
 
-### *<Vorspann>*
+#### *Rund 7 Prozent der schweizer Bevölkerung erleidet jährlich an einer Depression (Wittchen & Jacobi, 2005) davon gelten 50,9 Prozent als schwer oder sehr schwer ausgeprägt (Kessler & Wang, 2009).*\
+*Die UPD arbeitet nun an einer Studie, die den Einfluss der neurologischen Beschaffenheiten einer Depression auf unsere körperlichen, motorischen Fähigkeiten erforscht.*
+
+#### *Dieses gewonnene Wissen erweist sich als wertvoll im Verständnis unseres menschlichen Daseins und ist massgebend für unsere Lebensqualität* 
 
 **Ankunft im KIZ**
 
@@ -26,7 +29,7 @@ Bemessen werden verschiedene Tests, welche die Teilnehmenden durchführen, Herr 
 
 Herr Walther erzählte mir, eine der Hypothesen beziehe sich auf diejenigen Personen, die körperlich besonders verlangsamen. Erwartet wird, dass sich bei diesen Menschen Auffälligkeiten in der weissen Substanz im Gehirn zeigen werden. Als weiße Substanz (Substantia alba) bezeichnet man Anteile des Zentralnervensystems, die überwiegend aus Leitungsbahnen bzw. Nervenfasern bestehen und somit vornehmlich Nervenzellfortsätze enthalten (Stangl, 2023). Die Leistungsfähigkeit der weissen Substanz hängt eng mit der Menge an der körperlichen Aktivität, die eine Person aufbringt, zusammen. Je mehr man sich bewegt, desto effizienter ihre Leistungsfähigkeit. Eine Störung der weissen Substanz geht mit Konzentrationsschwierigkeiten und Vergesslichkeit einher, welche bei einer Depression auch häufig vertreten sind. Herr Walther erwähnte, dass die Gehirne depressiver Personen leicht verlangsamt arbeiten, im vergleich zu gesunden Personen. Dies hängt jedoch nicht mit einem Mangel an Intelligenz zusammen, sondern viel mehr mit einer veränderten Funktionsweise des Gehirns. Dies macht sich beispielsweise im limbischen System bemerkbar. Dort verknüpfen sich Strukturen von Großhirn, Mittelhirn und Hirnstamm. Die wichtigsten Bestandteile sind Hippocampus, Hypothalamus und Amygdala. Es ist für Triebverhalten, die Ausschüttung von Endorphinen und für intellektuelle Leistungen zuständig. Die Amygdala (Mandelkern) bewertet den emotionalen Gehalt einer Situation und reagiert auf Gefahren (Stangl, 2023). Laut Professor Walther sind diese Zentren in einer Dauererregung und „sind praktisch immer aktiv und lassen sich nur durch wenig wirklich stören und unterbrechen.“ Die veränderte Aktivität bei der Verarbeitung von Gefühlen erklärt u.a., die erhöhte psychische Verletzlichkeit depressiver Patienten und warum oft Schicksalsschläge einer Erkrankung vorausgehen (Voderholzer, 2023). Möglicherweise kommt es dann nach einiger Zeit zu Umbauprozessen in den jeweiligen Zentren „sodass dieser Teil einfach selbstständig wird und gar nicht mehr erreichbar ist durch Argumente“. In so einem Fall spräche man von einer chronischen Depression. 
 
-![Quelle: remstim.com, Abruf am 11.5.2023](https://remstim.com/wp-content/uploads/2014/10/Limbisches-Gehirn_DE.jpg "Das limbische System")
+![Quelle: remstim.com, Abruf am 11.05.2023](https://remstim.com/wp-content/uploads/2014/10/Limbisches-Gehirn_DE.jpg "Das limbische System")
 
 **Eine Negativspirale**
 
