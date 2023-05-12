@@ -18,7 +18,7 @@ Es ist ein schöner Tag, wenn auch etwas kühl, doch die Mittagssonne scheint ei
 
 `{{<box>}}`
 
-*Translationale Forschung* beschäftigt sich mit der Auswertung und Umsetzung von Forschungsergebnissen in den praktischen Gebrauch.
+Die *translationale Forschung* beschäftigt sich mit der Auswertung und Umsetzung von Forschungsergebnissen in den praktischen Gebrauch.
 
 `{{</box>}}`
 
@@ -28,7 +28,7 @@ Es ist ein schöner Tag, wenn auch etwas kühl, doch die Mittagssonne scheint ei
 >
 > *Professor Sebastian Walther, 2023*
 
-Laut Professor Walther handelt es sich bei dem Projekt um eine Studie, mit deren Hilfe man die Auswirkungen einer depressiven Störung auf die Motorik der Betroffenen erforschen möchte und anhand dessen möglicherweise eine Prognose über den Verlauf der Depression bei den einzelnen Menschen stellen kann. „Wir wollen herausfinden, ob sich die Bewegungsveränderungen, die wir sehen wenn Leute richtig depressiv sind, sich dann verändern wenn die Leute wieder in eine gesunde Phase kommen.“, erklärt er. „Wenn man eine Gruppe hat, die gross genug ist, werden im Verlauf von anderthalb Jahren auch einige erwischt, denen es irgendwann in der Zeit wieder schlechter gehen wird. Und die Idee wäre, dass wir herausrechnen können - anhand der Bewegungen - ob diejenigen, denen es gut geht, wieder depressiv werden oder bei denjenigen, die aktuell depressiv sind, man mit Hilfe dieser Bewegungsmarker rausfindet, wer sich schnell wieder verbessern wird.“ Es geht also darum, ein Muster im Zusammenhang mit dem Verlauf der Depression und der langfristigen Veränderung der Motorik der Teilnehmenden zu finden. Falls es eins gibt, kann dieses sehr hilfreich dabei sein, wie die Therapie angegangen werden soll.
+Laut Professor Walther handelt es sich bei dem Projekt um eine Studie, mit deren Hilfe man die Auswirkungen einer depressiven Störung auf die Motorik der Betroffenen erforschen möchte und anhand dessen möglicherweise eine Prognose über den Verlauf der Depression bei den einzelnen Menschen stellen kann. „Wir wollen herausfinden, ob sich die Bewegungsveränderungen, die wir sehen wenn Leute richtig depressiv sind, sich dann verändern wenn die Leute wieder in eine gesunde Phase kommen.“, erklärt er. Es wird davon ausgegangen, dass bei einer Gruppe von angemessener Grösse im Verlauf von anderthalb Jahren einzelne Personen an einem Rückfall erleiden werden. Es geht also darum, ein Muster im Zusammenhang mit dem Verlauf der Depression und der langfristigen Veränderung der Motorik der Teilnehmenden zu finden. Falls es eins gibt, kann dieses sehr hilfreich dabei sein, wie die Therapie angegangen werden soll.
 
 **Messmethoden**
 
