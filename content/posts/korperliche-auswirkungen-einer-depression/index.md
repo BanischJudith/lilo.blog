@@ -28,7 +28,7 @@ Es ist ein schöner Tag, wenn auch etwas kühl, doch die Mittagssonne scheint ei
 
 > „Wir wollen herausfinden, ob sich die Bewegungsveränderungen, die wir sehen wenn Leute richtig depressiv sind, sich dann verändern wenn die Leute wieder in eine gesunde Phase kommen.“
 >
-> *\- Professor Sebastian Walther, 2023*
+> *Professor Sebastian Walther, 2023*
 
 Bei dem Projekt handelt es sich um eine Studie, mithilfe der man die Auswirkungen einer depressiven Störung auf die Motorik der Betroffenen erforschen möchte und anhand dessen, möglicherweise eine Prognose über den Verlauf der Depression bei den einzelnen Menschen stellen kann, laut Professor Walther. „Wir wollen herausfinden, ob sich die Bewegungsveränderungen, die wir sehen wenn Leute richtig depressiv sind, sich dann verändern wenn die Leute wieder in eine gesunde Phase kommen.“, erklärt er mir. „Wenn man eine Gruppe hat, die gross genug ist, werden im Verlauf von anderthalb Jahren auch einige erwischt, denen es irgendwann in der Zeit wieder schlechter gehen wird. Und die Idee wäre, dass wir herausrechnen können - anhand der Bewegungen - ob diejenigen, denen es gut geht, wieder depressiv werden oder bei denjenigen, die aktuell depressiv sind, man mit Hilfe dieser Bewegungsmarker rausfindet, wer sich schnell wieder verbessern wird.“ Es geht also darum, ein Muster im Zusammenhang mit dem Verlauf der Depression und der langfristigen Veränderung der Motorik der Teilnehmenden zu finden. Falls es eins gibt, kann das sehr hilfreich dabei sein, wie die Therapie angegangen werden soll.
 
