@@ -8,17 +8,15 @@ footnotes = "* Wittchen & Jacobi (2005) \\[Abruf 11.05.2023] [obsan_56_bericht.p
 +++
 ## Eine Studie der UPD erforscht die langfristigen Auswirkungen von Depressionen auf die Motorik
 
-{{<lead>}}\
-Rund 7 Prozent der schweizer Bevölkerung erleidet jährlich an einer Depression (Wittchen & Jacobi, 2005) davon gelten 50,9 Prozent als schwer oder sehr schwer ausgeprägt (Kessler & Wang, 2009). Doch trotz ihrer relativ weiten Verbreitung ist die Depression noch immer stigmatisiert und wir zum Teil von der Allgemeinheit nicht als legitime Krankheit anerkannt, sondern als Selbstmitleid oder Faulheit abgetan. Auch wissenschaftlich besteht hier noch Forschungsfreiraum. Die UPD arbeitet nun an einer Studie, die den Einfluss der neurologischen Beschaffenheiten einer Depression auf unsere körperlichen, motorischen Fähigkeiten erforscht.\
-{{</lead>}}
+`{{<lead>}}Rund 7 Prozent der schweizer Bevölkerung erleidet jährlich an einer Depression (Wittchen & Jacobi, 2005) davon gelten 50,9 Prozent als schwer oder sehr schwer ausgeprägt (Kessler & Wang, 2009). Doch trotz ihrer relativ weiten Verbreitung ist die Depression noch immer stigmatisiert und wir zum Teil von der Allgemeinheit nicht als legitime Krankheit anerkannt, sondern als Selbstmitleid oder Faulheit abgetan. Auch wissenschaftlich besteht hier noch Forschungsfreiraum. Die UPD arbeitet nun an einer Studie, die den Einfluss der neurologischen Beschaffenheiten einer Depression auf unsere körperlichen, motorischen Fähigkeiten erforscht.{{</lead>}}`
 
 **Ankunft im KIZ**
 
 Es ist ein schöner Tag, wenn auch etwas kühl, doch die Mittagssonne scheint einladend hell. Trotzdem ist es ruhig, nur ein paar Menschen sind zu sehen, wie sie still, für sich spazieren gehen oder sich leise auf einer Bank unterhalten. Wir befinden uns auf dem Gelände des Inselspitals, auf dem Weg zum KIZ, dem Kriseninterventionszentrum. Der kleine Pfad ist gepflegt und führt durch einen Park zum Gebäude. Die Stimmung wirkt angeschlagen und doch vermittelt sie mir tatsächlich ein warmes Gefühl von Vertrauenswürdigkeit. wenn auch eine sachte Melancholie. Angekommen im KIZ, frage ich bei der Rezeption nach Herrn Professor Sebastian Walther, dem Chefarzt und Forschungsgruppenleiter für translationale Forschung *(Infobox in Endfassung -> translationale Forschung: beschäftigt sich mit der Auswertung und Umsetzung von Forschungsergebnissen in den praktischen Gebrauch)* an der UPD, den universitären psychiatrischen Diensten im Kanton Bern. Ich werde in den ersten Stock gebeten, wo ich vor seinem Büro auf einem Wartestuhl platznehmen darf. Nach kurzer Zeit werde ich nun von seiner Sekretärin hereingebeten, wo Herr Walther mich freundlich begrüsst und mir einen Espresso anbietet, den ich sehr gerne entgegennehme.
 
-{{<box>}}\
-Translationale Forschung beschäftigt sich mit der Auswertung und Umsetzung von Forschungsergebnissen in den praktischen Gebrauch\
-{{</box>}}
+`{{<box>}}`\
+`Translationale Forschung beschäftigt sich mit der Auswertung und Umsetzung von Forschungsergebnissen in den praktischen Gebrauch`\
+`{{</box>}}`
 
 **Das Projekt**
 
