@@ -14,6 +14,8 @@ footnotes = "* Wittchen & Jacobi (2005) \\[Abruf 11.05.2023] [obsan_56_bericht.p
 
 `{{</lead>}}`
 
+
+
 **Ankunft im KIZ**
 
 Es ist ein schöner Tag, wenn auch etwas kühl, doch die Mittagssonne scheint einladend hell. Trotzdem ist es ruhig, nur ein paar Menschen sind zu sehen, wie sie still, für sich spazieren gehen oder sich leise auf einer Bank unterhalten. Wir befinden uns auf dem Gelände des Inselspitals, auf dem Weg zum KIZ, dem Kriseninterventionszentrum. Der kleine Pfad ist gepflegt und führt durch einen Park zum Gebäude. Die Stimmung wirkt angeschlagen und doch vermittelt sie mir tatsächlich ein warmes Gefühl von Vertrauenswürdigkeit. wenn auch eine sachte Melancholie. Angekommen im KIZ, frage ich bei der Rezeption nach Herrn Professor Sebastian Walther, dem Chefarzt und Forschungsgruppenleiter für translationale Forschung *(Infobox in Endfassung -> translationale Forschung: beschäftigt sich mit der Auswertung und Umsetzung von Forschungsergebnissen in den praktischen Gebrauch)* an der UPD, den universitären psychiatrischen Diensten im Kanton Bern. Ich werde in den ersten Stock gebeten, wo ich vor seinem Büro auf einem Wartestuhl platznehmen darf. Nach kurzer Zeit werde ich nun von seiner Sekretärin hereingebeten, wo Herr Walther mich freundlich begrüsst und mir einen Espresso anbietet, den ich sehr gerne entgegennehme.
