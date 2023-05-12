@@ -1,7 +1,7 @@
 +++
 title = "Körperliche Auswirkungen einer Depression"
 date = "2023-05-12"
-draft = true
+draft = false
 pinned = true
 tags = ["Reportage", "CampusMuristalden"]
 footnotes = "* Wittchen & Jacobi (2005) \\[Abruf 11.05.2023] [obsan_56_bericht.pdf (admin.ch)](https://www.obsan.admin.ch/sites/default/files/2021-08/obsan_56_bericht.pdf)\n* Kessler & Wang (2009) \\[Abruf 11.05.2023] [obsan_56_bericht.pdf (admin.ch)](https://www.obsan.admin.ch/sites/default/files/2021-08/obsan_56_bericht.pdf)\n* Stangl, W. (2023) \\[Abruf 29.03.2023] *[weiße Substanz – Online Lexikon für Psychologie & Pädagogik](https://lexikon.stangl.eu/31874/weisse-substanz)*.\n* Stangl, W. (2023) \\[Abruf 06.05.2023] *[limbisches System – Online Lexikon für Psychologie & Pädagogik](https://lexikon.stangl.eu/1731/limbisches-system)*.[](https://www.neurologen-und-psychiater-im-netz.org/psychiatrie-psychosomatik-psychotherapie/stoerungen-erkrankungen/depressionen/ursachen/#SnippetTab)\n* Voderholzer, U. \\[Abruf 10.05.2023] [Depressionen » Symptome, Ursachen, Diagnostik. Therapie » Ursachen » (neurologen-und-psychiater-im-netz.org)](https://www.neurologen-und-psychiater-im-netz.org/psychiatrie-psychosomatik-psychotherapie/stoerungen-erkrankungen/depressionen/ursachen/#SnippetTab)\n* oberbergkliniken.de \\[Abruf 12.05.2023] [Dysthymie - \"Chronische Depression\" (oberbergkliniken.de)](https://www.oberbergkliniken.de/krankheitsbilder/dysthymie)\n* remstim.com \\[Abruf 11.05.2023] [Angst: Wie die Amygdala unsere Ängste steuert (remstim.com)](https://remstim.com/angst-amygdala-aengste-steuert/)"
